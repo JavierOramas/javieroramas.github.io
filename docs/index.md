@@ -4,7 +4,7 @@ disqus: ""
 
 # Hello! 👋 I'm Javier Alejandro Oramas Lopez
 
-<codersrank-summary username="leynier"></codersrank-summary>
+<codersrank-summary username="javieroramas"></codersrank-summary>
 
 I'm a student of Computer Science. I know several programming languages such as C, C++, C#, Dart, Python and Rust; in addition to other markup or style languages such as HTML, CSS and JSON. Im mainly focused in AI, but also like mobile development and scripting, Im a Linux fanboy, FOSS believer and a Terminal lover 
 
