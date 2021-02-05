@@ -35,9 +35,9 @@ I co-founded geeksLabTech, a Organiztion made to promote cuban software, focused
 
 ## Experience
 
-<!-- <codersrank-work-experience username="leynier"></codersrank-work-experience> -->
+<!-- <codersrank-work-experience username="javieroramas"></codersrank-work-experience> -->
 
-### Flutter Developer at [geeksLabTech](https://educup.io)
+### Flutter Developer at [geeksLabTech]
 
 > January 2021 - Present
 
@@ -46,7 +46,7 @@ Mainly developing mobile applications using the Flutter framework, launched  [La
 
 ## Education
 
-<!-- <codersrank-education username="leynier" certificates="false" grid style="--grid-columns:2"></codersrank-education> -->
+<!-- <codersrank-education username="javieroramas" certificates="false" grid style="--grid-columns:2"></codersrank-education> -->
 
 ### [University of Havana](http://www.uh.cu)
 
