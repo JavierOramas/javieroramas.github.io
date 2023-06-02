@@ -6,7 +6,7 @@ disqus: ""
 > Curriculum Vitae
 <a href="https://github.com/javieroramas/CV/CV_Javier_ES.pdf">CV ES</a> | <a href="https://github.com/javieroramas/CV/CV_Javier_EN.pdf">CV EN</a>
 
-<codersrank-summary username="JavierOramas"></codersrank-summary>
+<codersrank-summary username="javieroramas"></codersrank-summary>
 
 I'm a student of Computer Science. I know several programming languages such as C, C++, C#, Dart, Python and Rust; in addition to other markup or style languages such as HTML, CSS and JSON. Im mainly focused in AI, but also like mobile development and scripting, Im a Linux fanboy, FOSS believer and a Terminal lover.
 
@@ -37,7 +37,7 @@ I was part of the team that made the best prediction in the World for the FIFA W
 
 ## Experience
 
-<!-- <codersrank-work-experience username="JavierOramas"></codersrank-work-experience> -->
+<!-- <codersrank-work-experience username="javieroramas"></codersrank-work-experience> -->
 
 ### Flutter Developer at [geeksLabTech]
 
@@ -53,7 +53,7 @@ Mainly developing mobile applications using the Flutter framework, launched  [La
 
 ## Education
 
-<!-- <codersrank-education username="JavierOramas" certificates="false" grid style="--grid-columns:2"></codersrank-education> -->
+<!-- <codersrank-education username="javieroramas" certificates="false" grid style="--grid-columns:2"></codersrank-education> -->
 
 ### [University of Havana](http://www.uh.cu)
 
