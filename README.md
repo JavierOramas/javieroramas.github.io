@@ -1,9 +1,25 @@
-# Hello! 👋 I'm [Javier Alejadro Oramas Lopez](https://javieroramas.github.io) 
 
-> In this repo I maintain my site and blog using [GitHub Pages](https://pages.github.com) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material). They are available at [javieroramas.github.io](https://javieroramas.github.io).
+### Hi there, I'm Javier Oramas 👋
 
-I'm a student of Computer Science. I know several programming languages such as C, C++, C#, Dart, Python and Rust; in addition to other markup or style languages such as HTML, CSS and JSON. Im mainly focused in AI, but also like mobile development and scripting, Im a Linux fanboy, FOSS believer and a Terminal lover 
+> Curriculum Vitae
+<a href="https://github.com/JavierOramas/CV/releases">CV Files</a>
 
-In my free time I'm always researching and learning about new technologies, frameworks, etc. I'm good working both individually and as a team, I know the development methodologies of agile software and tools like Git.
+A passionate Computer Science student currently pursuing a Bachelor's degree at MATCOM, Havana University, Cuba, since 2018. My academic journey began with a Science Bachelor from the Vocational Institute of Exact Sciences Ernesto Guevara in 2015. 
 
-I co-founded geeksLabTech, a Organiztion made to promote cuban software, focused on breaking limitations, and fixing day to day problems
+Since 2021, I've been actively engaged as a Developer at American Behavioral Solutions (ABS) in Arizona, where I've contributed to the development and deployment of a management system for supervisions. My GitHub showcases a wide range of personal projects, including a distributed file system, machine learning models for inferring Cuba's contact matrix and predicting various outcomes, as well as endeavors like a functional MIPS microprocessor and games designed with various technologies. 
+
+Alongside my academic and professional pursuits, I've actively participated in events, conferences, and competitions, achievinggreat results such as best predictions for 2022 FIFA World Cup and Lima 2019 Panamerican Games (results for Cuba). 
+
+Proficient in an array of programming languages and technologies including Python, C#, C, Dart, TensorFlow, PyTorch, Git, and more, my GitHub page reflects my continuous commitment to exploring, learning, and contributing to the world of computer science.
+
+<div style="text-align: center;">
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=javieroramas)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=javieroramas&column=3&margin-w=15&margin-h=15)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=javieroramas)
+
+![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=javieroramas)
+
+</div>
