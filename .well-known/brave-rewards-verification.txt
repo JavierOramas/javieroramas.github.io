@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: javieroramas.github.io
+Token: 6946ad8338cb03036551d3fc4bd282dafed1ebea64d7c2bb06aff59812a7e40d
